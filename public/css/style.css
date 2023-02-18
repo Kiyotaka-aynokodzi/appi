@@ -3,6 +3,7 @@
     margin: 0;
     border: 0;
     box-sizing: border-box;
+    background: url('/public/img/ecc8608ebb9732b0a74cc79493f1a31f.jpeg');
 }
 
 a {
@@ -12,11 +13,6 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-button {
-    border: none;
-    background: none;
 }
 
 li {
@@ -29,7 +25,6 @@ body {
     background: white;
     width: 1440px;
     margin: 0 auto;
-    background: url('/public/img/ecc8608ebb9732b0a74cc79493f1a31f.jpeg');
 }
 
 button {
@@ -45,7 +40,7 @@ button:hover {
 header {
     display: flex;
     justify-content: space-between;
-    margin-top: 150px;
+    margin-top: 50px;
     background: grey;
     border-radius: 30px;
     align-items: center;
@@ -108,7 +103,7 @@ footer div {
 }
 
 footer div a {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .card {
