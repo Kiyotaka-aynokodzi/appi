@@ -3,7 +3,6 @@
     margin: 0;
     border: 0;
     box-sizing: border-box;
-    background: url('/public/img/ecc8608ebb9732b0a74cc79493f1a31f.jpeg');
 }
 
 a {
@@ -20,9 +19,9 @@ li {
 }
 
 body {
+    background: url('/public/img/ecc8608ebb9732b0a74cc79493f1a31f.jpeg');
     height: 100%;
     line-height: 1;
-    background: white;
     width: 1440px;
     margin: 0 auto;
 }
