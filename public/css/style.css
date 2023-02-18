@@ -21,9 +21,9 @@ li {
 body {
     height: 100%;
     line-height: 1;
+    background-image:url(./img/ecc8608ebb9732b0a74cc79493f1a31f.jpeg);
     width: 1440px;
     margin: 0 auto;
-    background-image:url('/img/ecc8608ebb9732b0a74cc79493f1a31f.jpeg');
 }
 
 button {
