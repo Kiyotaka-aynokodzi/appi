@@ -39,7 +39,7 @@ button:hover {
 header {
     display: flex;
     justify-content: space-between;
-    margin-top: 50px;
+    margin-top: 300px;
     background: grey;
     border-radius: 30px;
     align-items: center;
