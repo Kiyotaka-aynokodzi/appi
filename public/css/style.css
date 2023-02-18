@@ -32,10 +32,6 @@ button {
     padding: 3px;
 }
 
-button:hover {
-    background: grey;
-}
-
 header {
     display: flex;
     justify-content: space-between;
